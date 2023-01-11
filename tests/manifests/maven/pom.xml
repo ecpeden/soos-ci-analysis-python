@@ -155,7 +155,7 @@
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.2.5</version>
+            <version>42.5.1</version>
         </dependency>
         <!-- Used for the custom form submit on the login page-->
         <!-- https://github.com/PolymerElements/iron-form -->
